@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { ImageFile } from '@/lib/compressor'
 import { formatBytes } from '@/lib/utils'
 import { X } from 'lucide-react'

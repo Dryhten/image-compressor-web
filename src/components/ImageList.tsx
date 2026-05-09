@@ -1,4 +1,3 @@
-import React from 'react'
 import { ImageFile } from '@/lib/compressor'
 import { formatBytes, getCompressionRatio, cn } from '@/lib/utils'
 import { CheckCircle, XCircle, Loader2, Eye, Trash2 } from 'lucide-react'
